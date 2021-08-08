@@ -1,5 +1,5 @@
-if game.PlaceId == 5865858426 then
-   loadstring(game:HttpGet('https://raw.githubusercontent.com/Gfsafafdgg/GornHub/main/Script'))()
+if game.PlaceId == 2753915549 then
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/Gfsafafdgg/VRHUB/main/Beta'))()
    else
    game.Players.LocalPlayer:Kick("game not support")
 end
